@@ -1,0 +1,6 @@
+Case-insensitive comparison: Converts strings to lowercase for case-agnostic checking.
+Error handling: Handles missing keys in the event payload with a 400 (Bad Request) status code.
+Clear and concise code: Uses descriptive variable names, comments, and a readable structure.
+Efficient character frequency counting: Employs a dictionary for optimal performance with character frequencies.
+JSON-formatted response: Returns a well-structured JSON response with the result.
+Scalability and serverless deployment: Designed for deployment as an AWS Lambda function, enabling scalability and cost-effectiveness.
